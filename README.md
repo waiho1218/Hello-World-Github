@@ -1,7 +1,5 @@
 # Hello-World-Github
 
-New line for 'features' branch
+Hello, I'm Wong Wai Ho
 
-Hello, this is from the AWS machine
-
-My student ID is 1155000000
+My student ID is 1155146692

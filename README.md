@@ -2,4 +2,4 @@
 
 Hello, I'm Wong Wai Ho
 
-My student ID is 1155146692
+My student Number is 1155146692.
